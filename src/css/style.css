@@ -85,11 +85,11 @@ html {
 .promo {
     position: relative;
     min-height: 100vh;
-    background:url("../img/main_bg.jpg") center center/cover no-repeat;
+    background:url("../img/mainbg.jpg") center center/cover no-repeat;
     padding-top: 75px;
     @media screen and (max-width: 768px) {
         & {
-            background-image: url("../img/tablet_bg.jpg");
+            background-image: url("../img/tabletbg.jpg");
         }
     }
     @media screen and (max-width: 576px) {
